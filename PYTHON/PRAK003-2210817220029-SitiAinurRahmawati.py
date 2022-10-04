@@ -1,1 +1,1 @@
-print("Andi berkata \"Saya Pasti Bisa\"")
+print("Andi Berkata \"Saya Pasti Bisa\"")
